@@ -5,5 +5,8 @@ print ("Hello, my name is Achilles Maling. I am 20 years old and I study in Bath
 print ("Welcome to python programming")
 
 age = 20 #assigning value
+address = "Dubai, UAE" #created address variable for address value.
 
-print (age)
+print (age, address)
+
+print (" My name is 'Achilles' ")
